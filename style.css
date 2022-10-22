@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Roboto:ital,wght@0,300;0,400;1,300&display=swap');
+html,body{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.row{
+    margin: 5px 0;
+}
